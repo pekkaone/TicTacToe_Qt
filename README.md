@@ -1,3 +1,2 @@
 Simple Tictactoe App made with qt, can be runned on android
-<img width="26" height="28" alt="Zrzut ekranu 2025-12-24 211229" src="https://github.com/user-attachments/assets/195bcc45-9212-4416-bfb8-f7a06b1c454b" />
-
+<img width="477" height="631" alt="Screenshot 2026-10-21 214550" src="https://github.com/user-attachments/assets/d6c00758-fb88-4a76-96ab-f9e753a9f6ad" />
