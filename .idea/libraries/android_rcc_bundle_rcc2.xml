@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="android_rcc_bundle.rcc2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/Qt_6_11_1_for_Android_armeabi_v7a_Debug/android-build-appTicTacToe/build/intermediates/compressed_assets/debug/compressDebugAssets/out/assets/android_rcc_bundle.rcc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="desugarDebugFileDependencies2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/Qt_6_11_1_for_Android_armeabi_v7a_Debug/android-build-appTicTacToe/build/intermediates/external_file_lib_dex_archives/debug/desugarDebugFileDependencies/0_Qt6Android.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/Qt_6_11_1_for_Android_armeabi_v7a_Debug/android-build-appTicTacToe/build/intermediates/external_file_lib_dex_archives/debug/desugarDebugFileDependencies/1_Qt6AndroidNetwork.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/Qt_6_11_1_for_Android_armeabi_v7a_Debug/android-build-appTicTacToe/build/intermediates/external_file_lib_dex_archives/debug/desugarDebugFileDependencies/2_Qt6AndroidNetworkInformationBackend.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/Qt_6_11_1_for_Android_armeabi_v7a_Debug/android-build-appTicTacToe/build/intermediates/external_file_lib_dex_archives/debug/desugarDebugFileDependencies/3_Qt6AndroidQuick.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

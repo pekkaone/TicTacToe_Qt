@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/Qt_6_11_1_for_Android_x86_64_Debug/android-build-appTicTacToe/libs/Qt6Android.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/Qt_6_11_1_for_Android_x86_64_Debug/android-build-appTicTacToe/libs/Qt6AndroidNetworkInformationBackend.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/Qt_6_11_1_for_Android_x86_64_Debug/android-build-appTicTacToe/libs/Qt6AndroidNetwork.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/Qt_6_11_1_for_Android_x86_64_Debug/android-build-appTicTacToe/libs/Qt6AndroidQuick.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

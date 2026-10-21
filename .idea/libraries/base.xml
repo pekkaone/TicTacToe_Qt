@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="base">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/Qt_6_11_1_for_Android_armeabi_v7a_Debug/android-build-appTicTacToe/build/intermediates/merged_java_res/debug/mergeDebugJavaResource/base.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
